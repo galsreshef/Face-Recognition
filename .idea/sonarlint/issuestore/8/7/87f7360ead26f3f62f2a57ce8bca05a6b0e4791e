@@ -1,0 +1,3 @@
+
+mpython:S1542"URename function "gaussianBlur" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(âý…Ä
+rpython:S117"[Rename this parameter "contourAreaSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(âý…Ä

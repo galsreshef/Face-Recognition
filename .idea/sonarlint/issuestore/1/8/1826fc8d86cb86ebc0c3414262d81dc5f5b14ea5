@@ -1,0 +1,11 @@
+
+rpython:S1542n"URename function "createBrowse" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‘¼žƒüÿÿÿÿ
+upython:S117g"YRename this local variable "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¦•Åûÿÿÿÿ
+ppython:S117}"YRename this local variable "radioVal" to match the regular expression ^[_a-z][a-z0-9_]*$.(Î†ˆÍ
+qpython:S15423"YRename function "create_Toplevel1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(û¿ôþ
+rpython:S1542>"ZRename function "destroy_Toplevel1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›ùÜ§
+spython:S117z"\Rename this local variable "contourSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(À¨ô¸
+ppython:S117c"YRename this local variable "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ï±Ê»
+ppython:S1542e"SRename function "fileDialog" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(•›ÅÛùÿÿÿÿ
+ppython:S1542w"SRename function "startVideo" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(öÖõ¶ùÿÿÿÿ
+wpython:S117i"[Rename this local variable "path_Label" to match the regular expression ^[_a-z][a-z0-9_]*$.(€Ý›“øÿÿÿÿ

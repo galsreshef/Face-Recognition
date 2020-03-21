@@ -1,0 +1,32 @@
+
+}python:S117"aRename this local variable "galreshefEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(Óğ¤şÿÿÿÿ
+opython:S1542d"WRename function "saveRecognized" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(©ú¶Ë
+kpython:S3776,"TRefactor this function to reduce its Cognitive Complexity from 18 to the 15 allowed.(œô«g
+~python:S117"bRename this local variable "barakObamaEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ãäëøÿÿÿÿÿ
+vpython:S1174"ZRename this local variable "faceNames" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ù«›ïşÿÿÿÿ
+wpython:S1175"[Rename this local variable "checkFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë ¦ùÿÿÿÿ
+python:S117"cRename this local variable "moshePeretzEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŠÃæùÿÿÿÿ
+jpython:S1542
+"RRename function "loadFaces" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(×åªˆ
+wpython:S1178"[Rename this local variable "smallFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(ŸÉÇÚùÿÿÿÿ
+}python:S117"aRename this local variable "beniGantzEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(­ÕĞİıÿÿÿÿ
+opython:S117@"XRename this local variable "Encoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(À÷ü
+~python:S117"gRename this local variable "yuvalHamebulbalEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(Õ‡Â
+‚python:S117"fRename this local variable "sarahNetanyahuEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(ìÛåûÿÿÿÿ
+xpython:S117"aRename this local variable "eyalGolanEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(ì‚µá
+rpython:S117"[Rename this local variable "knownNames" to match the regular expression ^[_a-z][a-z0-9_]*$.(Óµî¡
+zpython:S117"dRename this local variable "jasonStathamEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(½ìÕ
+upython:S117D"^Rename this local variable "faceDistances" to match the regular expression ^[_a-z][a-z0-9_]*$.(•¼ÒÈ
+|python:S117"`Rename this local variable "galGadotEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(Äçî„ùÿÿÿÿ
+|python:S117"`Rename this local variable "omerAdamEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(êË×Óüÿÿÿÿ
+npython:S1542,"WRename function "faceRecognizer" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(œô«g
+{python:S117E"_Rename this local variable "bestMatchIndex" to match the regular expression ^[_a-z][a-z0-9_]*$.(áØ„àùÿÿÿÿ
+Spython:PrintStatementUsage)"-Replace print statement by built-in function.(Ù”óÌ
+zpython:S117"cRename this local variable "yardenEdreyEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(¹äÅ
+python:S117"eRename this local variable "dwayneJohnsonEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÂúÓéúÿÿÿÿ
+~python:S117"bRename this local variable "irisReshefEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(«Íâüøÿÿÿÿ
+|python:S117"eRename this local variable "bibiNetanyahuEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(êû é
+zpython:S117"cRename this local variable "donaldTrumpEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(‚ÎşÇ
+|python:S117"`Rename this local variable "orReshefEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(òøŞœùÿÿÿÿ
+|python:S117"eRename this local variable "vladimirPutinEncoded" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÊÆÕ•
+vpython:S1179"_Rename this local variable "rgb_smallFrame" to match the regular expression ^[_a-z][a-z0-9_]*$.(ÃŞ¤â

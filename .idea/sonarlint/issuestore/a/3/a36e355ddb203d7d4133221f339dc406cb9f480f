@@ -1,0 +1,31 @@
+
+upython:S117õ"]Rename this local variable "start_Button" to match the regular expression ^[_a-z][a-z0-9_]*$.(é¡Ê
+qpython:S1542;"YRename function "create_Toplevel1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(û¿ôş
+[python:PrintStatementUsageÃ"-Replace print statement by built-in function.(‚ÇŞ“8¥‡¸ÉÕ-
+qpython:S1542›"SRename function "fileDialog" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(•›ÅÛùÿÿÿÿ
+wpython:S117‹"_Rename this local variable "creators_Label" to match the regular expression ^[_a-z][a-z0-9_]*$.(â²Áˆ
+vpython:S117"^Rename this local variable "valueSelected" to match the regular expression ^[_a-z][a-z0-9_]*$.(â¹Š‡
+`python:PrintStatementUsageÀ"-Replace print statement by built-in function.(‰ æÚüÿÿÿÿ8‹õ¡ÉÕ-
+qpython:S1542±"SRename function "startVideo" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(öÖõ¶ùÿÿÿÿ
+vpython:S117ô"YRename this local variable "noteBook" to match the regular expression ^[_a-z][a-z0-9_]*$.(³Ú†œûÿÿÿÿ
+xpython:S117 "[Rename this local variable "path_Label" to match the regular expression ^[_a-z][a-z0-9_]*$.(ë¿ò¯ıÿÿÿÿ
+ypython:S117…"\Rename this local variable "exit_Button" to match the regular expression ^[_a-z][a-z0-9_]*$.(·ü¨¾úÿÿÿÿ
+zpython:S117ê"]Rename this local variable "contourLabel" to match the regular expression ^[_a-z][a-z0-9_]*$.(µå¦ëüÿÿÿÿ
+tpython:S117â"WRename this local variable "tryVar" to match the regular expression ^[_a-z][a-z0-9_]*$.(É×‰åÿÿÿÿÿ
+rpython:S1542F"ZRename function "destroy_Toplevel1" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(›ùÜ§
+`python:PrintStatementUsageÁ"-Replace print statement by built-in function.(ÃµŸøÿÿÿÿ8ó±¤ÉÕ-
+`python:PrintStatementUsageË"-Replace print statement by built-in function.(‰ æÚüÿÿÿÿ8ìª†ÊÕ-
+`python:PrintStatementUsageÊ"-Replace print statement by built-in function.(ñÒøÈøÿÿÿÿ8ìª†ÊÕ-
+tpython:S117¼"\Rename this local variable "contourSize" to match the regular expression ^[_a-z][a-z0-9_]*$.(À¨ô¸
+qpython:S117˜"YRename this local variable "noteBook" to match the regular expression ^[_a-z][a-z0-9_]*$.(±ç¯–
+{python:S117©"^Rename this local variable "browse_Button" to match the regular expression ^[_a-z][a-z0-9_]*$.(Øı¢İıÿÿÿÿ
+[python:PrintStatementUsageÄ"-Replace print statement by built-in function.(Ï®«à8ÊÌ×ÉÕ-
+[python:PrintStatementUsage¿"-Replace print statement by built-in function.(Ç¹ª8×²£ÉÕ-
+zpython:S117ï"]Rename this local variable "contourEntry" to match the regular expression ^[_a-z][a-z0-9_]*$.(áÙ»™üÿÿÿÿ
+zpython:S117€"bRename this local variable "videoSource_Label" to match the regular expression ^[_a-z][a-z0-9_]*$.(æÅì»
+{python:S117û"^Rename this local variable "welcome_Label" to match the regular expression ^[_a-z][a-z0-9_]*$.(Áñ»”ÿÿÿÿÿ
+spython:S1542¦"URename function "createBrowse" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(‘¼ƒüÿÿÿÿ
+vpython:S117"YRename this local variable "fileName" to match the regular expression ^[_a-z][a-z0-9_]*$.(Ç¦•Åûÿÿÿÿ
+opython:S1542à"QRename function "setValue" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(Á÷¯­øÿÿÿÿ
+mpython:S1542å"URename function "createScreen" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(»«ó?
+[python:PrintStatementUsageÂ"-Replace print statement by built-in function.(Ï®«à8Ç²·ÉÕ-
